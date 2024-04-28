@@ -15,7 +15,7 @@ numpy==1.26.3
 opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 packaging==23.2
-pillow==10.2.0
+pillow==10.3.0
 protobuf==3.20.3
 PyAutoGUI==0.9.54
 pycparser==2.21
