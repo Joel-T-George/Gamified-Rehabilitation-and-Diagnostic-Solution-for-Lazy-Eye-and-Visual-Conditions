@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../Resources/both_eye.png</file>
+    <file>../Resources/only_left.png</file>
+    <file>../Resources/only_right.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
