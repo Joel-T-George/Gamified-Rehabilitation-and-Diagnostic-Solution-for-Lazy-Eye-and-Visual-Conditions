@@ -16,7 +16,7 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 packaging==23.2
 pillow==10.2.0
-protobuf==3.20.3
+protobuf==5.29.6
 PyAutoGUI==0.9.54
 pycparser==2.21
 pygame==2.5.2
